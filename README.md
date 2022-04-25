@@ -1,7 +1,7 @@
 # Theatre-CMS-Summary
 
 ## Introduction
-For my final Live Project with The Tech Academy, I worked on an interactive website for managing the content and productions for a theatre company. The website was built using ASP.NET MVC and the Entity Framework. The project was ran with Daily Standups and code retrospective meeting each Friday. The website is meant to be a content management service for users that aren't tech savvy and would like to easily manage what is displaying on their website. The portion I worked on was creating an entity model so that the cast members can be saved to the database. One challenge I came across and overcame was adding the ability for the user to upload an image, save it in the database, and display in the table.
+For my final Live Project with The Tech Academy, I worked on an interactive website for managing the content and productions for a theatre company. The website was built using ASP.NET MVC and the Entity Framework. The project was ran with Daily Standups and code retrospective meeting each Friday. The website is meant to be a content management service for users that aren't tech savvy and would like to easily manage what is displaying on their website. The portion I worked on was creating an entity model so that the cast members can be saved to the database. One challenge I came across and overcame was adding the ability for the user to upload an image, save it in the database, and display it in the table.
 
 ## CRUD Functionality
 Using Entity Framework, I scaffolded the CRUD pages for the model. Users are able to fill out a form to save the information of a cast member. The members are displayed on a table on the Index page.
